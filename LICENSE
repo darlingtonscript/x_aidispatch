@@ -1,0 +1,46 @@
+X STUDIO COMMERCIAL LICENSE — X AI Dispatch (x_aidispatch)
+Copyright (c) X Studio / MR X. All rights reserved.
+
+TEMPLATE NOTICE: This is a general-purpose template provided for convenience.
+It is not legal advice. Have a qualified lawyer review it before you sell or
+distribute the software.
+
+1. GRANT
+   Upon purchase or written authorization from X Studio, the licensee receives a
+   non-exclusive, non-transferable license to install and use this resource on
+   ONE (1) game server (and its development/test copy). The licensee may modify
+   config.lua, locale files and, where source is provided, adapt the code for
+   private use on that server.
+
+2. RESTRICTIONS
+   The licensee may NOT: (a) resell, sublicense, share, leak or redistribute the
+   resource or any part of it, modified or not; (b) remove or alter author, studio
+   or license notices; (c) claim the resource as their own work; (d) use it in a
+   product that competes with it by repackaging it.
+
+3. OWNERSHIP
+   X Studio and MR X retain all rights, title and interest in the resource,
+   including all intellectual property. The MR X logo and X Studio name are
+   trademarks of their owners and are not licensed for use beyond this resource.
+
+4. SUPPORT & UPDATES
+   Support and updates are provided at the discretion of X Studio through the
+   official support channel (Discord: mr_xdev).
+
+5. WARRANTY DISCLAIMER
+   THE RESOURCE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NON-INFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL X STUDIO OR MR X BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY ARISING FROM THE USE OF THE RESOURCE.
+
+7. TERMINATION
+   The license terminates automatically upon breach. On termination the licensee
+   must delete all copies of the resource.
+
+8. THIRD-PARTY SOFTWARE
+   This resource depends on third-party projects (ox_lib, oxmysql, and optionally
+   ox_inventory and a roleplay framework) that are governed by their own licenses.
+   They are not included and are not covered by this license.
